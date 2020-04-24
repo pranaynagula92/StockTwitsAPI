@@ -1,0 +1,20 @@
+
+
+.search-loading{
+    /* position: absolute; */
+    left: 0;
+    right: 0;
+    width: 150px;
+    height: 140px;
+    margin: auto;
+  }
+  .show{
+    display: inline-block;
+  }
+  .hide{
+    display: none;
+  }
+
+  .results-container {
+    border-bottom: 1px solid #f1ecec;
+  }
