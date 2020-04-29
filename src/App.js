@@ -1,5 +1,5 @@
 import React from 'react';
-import Symbols from "./components/Search"
+import Symbols from "./Search"
 import { Layout} from 'antd';
 const { Header, Content } = Layout;
 
